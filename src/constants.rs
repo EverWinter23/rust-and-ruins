@@ -1,0 +1,5 @@
+pub const WINDOW_WIDTH: u32 = 800;
+pub const WINDOW_HEIGHT: u32 = 600;
+
+pub const FRAMES_PER_SECOND: u32 = 60;
+pub const FRAME_TARGET_TIME: f64 = 1000.0 / FRAMES_PER_SECOND as f64;
